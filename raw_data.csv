@@ -1,0 +1,41 @@
+id,name,email,address,purchase_amount,purchase_date
+1,john doe,,,,2023-03-03
+2,Jane Smith,jane.smith@example.com,"0467 Jeff Flats
+Johnsontown, ME 89324",55.09,2023-02-04
+3,Alice Johnson,alice.johnson@example.com,"29606 Kelly Wall Apt. 548
+Lake Lisa, AK 89418",90.16,2023-01-09
+4,Michael Brown,michael.brown@example.com,"426 Hicks Mall Apt. 164
+North Christopherville, OR 29705",17.92,2023-10-01
+5,Emily Davis,emily.davis@example.com,,,2023-02-05
+6,Daniel Garcia,DANIEL.GARCIA@EXAMPLE.COM,"PSC 2546, Box 1689
+APO AP 39313",29.96,2023-05-12
+7,Laura Wilson,laura.wilson@example.com,"158 Anderson Bridge Apt. 097
+New Kathleen, OK 94349",80.32,2023-05-30
+8,Kevin Martinez,kevin.martinez@example.com,"169 Fuentzs Islands
+East Pamelafort, NH 40886",13.64,2023-06-25
+9,Isabella Anderson,isabella.anderson@example.com,"91524 Kelly Spring
+Jenningsville, WY 43311",93.89,2023-07-04
+10,Joshua Thomas,joshua.thomas@example.com,"Unit 5861 Box 7950
+DPO AP 11695",13.76,2023-01-14
+11,Sophia Lee,sophia.lee@example.com,"491 Hardin Port
+West Angela, TN 93468",67.06,2023-06-14
+12,Christopher Hernandez,christopher.hernandez@example.com,"312 Bell Plain Apt. 884
+North Zachary, PR 29492",57.36,2023-07-25
+13,Jessica King,jessica.king@example.com,"141 Lori Mills
+Port Juliebury, VI 10390",37.07,2023-08-06
+14,Matthew Wright,matthew.wright@example.com,"34543 Janet Knolls Suite 001
+New Michaelbury, NE 48319",28.09,2023-09-28
+15,Olivia Hill,olivia.hill@example.com,"197 Joseph Corners Suite 792
+Sotobury, GA 94128",16.66,2023-05-19
+16,Ethan Scott,ethan.scott@example.com,"181 Matthew Junctions Suite 586
+Lake Gregory, MO 01517 81100",11.91,2023-04-21
+17,Madison Torres,madison.torres@example.com,"629 Lacey Glen
+West Kimberlyton, AR 81100",93.97,2023-09-29
+18,Alexander Nguyen,alexander.nguyen@example.com,"189 Erin Passage Suite 849
+Lewischester, PW 75937",30.44,2023-01-15
+19,Abigail Young,abigail.young@example.com,"USCGC Taylor
+FPO AP 47892",38.3,2022-12-25
+20,David Adams,,"74635 Pham Roads
+Lake Carolynside, RI 19985",75.48,2023-08-19
+3,Alice Johnson,alice.johnson@example.com,"29606 Kelly Wall Apt. 548
+Lake Lisa, AK 89418",90.16,2023-01-09

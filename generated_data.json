@@ -1,0 +1,142 @@
+[
+    {
+        "name": "Elizabeth Thompson",
+        "email": "andersondorothy@example.org",
+        "address": "718 Linda Lodge Suite 577\nRandymouth, NH 82660",
+        "purchase_amount": 60.03,
+        "purchase_date": "2023-04-13"
+    },
+    {
+        "name": "Ashley Rich",
+        "email": "kevinjackson@example.org",
+        "address": "Unit 3556 Box 8805\nDPO AE 79890",
+        "purchase_amount": 0.0,
+        "purchase_date": "2023-02-15"
+    },
+    {
+        "name": "Heather Edwards",
+        "email": "gonzalezronald@payne.com",
+        "address": "5756 Evans Haven Suite 272 Cynthiaburgh, IN 99139",
+        "purchase_amount": 50.55,
+        "purchase_date": "2023-09-19"
+    },
+    {
+        "name": "Jeffrey Jordan",
+        "email": "proth@yahoo.com",
+        "address": "43416 Tasha Tunnel Maryton, CT 29152",
+        "purchase_amount": 63.68,
+        "purchase_date": "2023-02-14"
+    },
+    {
+        "name": "Amanda Rice",
+        "email": "kylefitzpatrick@hayes-walters.com",
+        "address": "93980 Fowler Roads Apt. 126 Bradleyshire, TN 92420",
+        "purchase_amount": 60.51,
+        "purchase_date": "2023-08-01"
+    },
+    {
+        "name": "Roberta Dunn",
+        "email": "xfitzpatrick@price.com",
+        "address": "7951 Sweeney Pike Millermouth, ID 05542",
+        "purchase_amount": 66.66,
+        "purchase_date": "2023-03-11"
+    },
+    {
+        "name": "Derek Morales",
+        "email": "meyermichael@yahoo.com",
+        "address": "8962 Derrick Summit Suite 434 Stephaniemouth, MD 18411",
+        "purchase_amount": 40.76,
+        "purchase_date": "2023-05-09"
+    },
+    {
+        "name": "Tony Mccoy",
+        "email": "amiller@kelley.com",
+        "address": "8147 Duncan Ferry New James, MA 27342",
+        "purchase_amount": 35.53,
+        "purchase_date": "2023-10-25"
+    },
+    {
+        "name": "Julie Briggs",
+        "email": "mowens@page.com",
+        "address": "9908 Roberto Canyon Jonathanport, DC 05422",
+        "purchase_amount": 54.63,
+        "purchase_date": "2022-11-27"
+    },
+    {
+        "name": "Susan Green",
+        "email": "diane19@yahoo.com",
+        "address": "229 Hernandez Mills Suite 854 Moonburgh, CO 84081",
+        "purchase_amount": 68.86,
+        "purchase_date": "2023-06-27"
+    },
+    {
+        "name": "Jennifer Hamilton",
+        "email": "ugonzalez@thompson.com",
+        "address": "97307 Dana Motorway Andrewfort, ND 13124",
+        "purchase_amount": 40.28,
+        "purchase_date": "2023-07-13"
+    },
+    {
+        "name": "Travis Walker",
+        "email": "yangcrystal@king-kline.net",
+        "address": "79864 Padilla Path Rebeccachester, SC 10630",
+        "purchase_amount": 16.84,
+        "purchase_date": "2023-09-25"
+    },
+    {
+        "name": "Joseph Mccormick",
+        "email": "brittney56@hotmail.com",
+        "address": "3840 Aaron Freeway Dennistown, WI 25991",
+        "purchase_amount": 90.34,
+        "purchase_date": "2023-08-16"
+    },
+    {
+        "name": "Audrey Clark",
+        "email": "smckinney@yahoo.com",
+        "address": "57750 Megan Light Suite 134 New Johnny, WA 35414",
+        "purchase_amount": 29.05,
+        "purchase_date": "2023-03-20"
+    },
+    {
+        "name": "John Jackson",
+        "email": "mooretracy@yahoo.com",
+        "address": "4874 Kevin Canyon North Samantha, RI 84835",
+        "purchase_amount": 1.75,
+        "purchase_date": "2023-07-14"
+    },
+    {
+        "name": "Brooke Buchanan",
+        "email": "melissajackson@hotmail.com",
+        "address": "PSC 3346, Box 0834 APO AP 58609",
+        "purchase_amount": 46.16,
+        "purchase_date": "2023-01-10"
+    },
+    {
+        "name": "Jessica Snyder",
+        "email": "ywood@gregory.com",
+        "address": "671 John Unions Suite 622 Michelleburgh, VT 16217",
+        "purchase_amount": 49.01,
+        "purchase_date": "2022-11-15"
+    },
+    {
+        "name": "Michael Thomas",
+        "email": "qjimenez@yahoo.com",
+        "address": "347 Joseph Lodge Suite 179 Lake Jeffrey, AL 91660",
+        "purchase_amount": 85.94,
+        "purchase_date": "2023-05-09"
+    },
+    {
+        "name": "Gregory Smith",
+        "email": "michaelhammond@patterson.info",
+        "address": "PSC 3287, Box 5425 APO AP 88115",
+        "purchase_amount": 11.39,
+        "purchase_date": "2023-01-23"
+    },
+    {
+        "name": "Michael Zhang",
+        "email": "trevor89@yahoo.com",
+        "address": "05359 David Summit Newmanfurt, DC 70299",
+        "purchase_amount": 16.84,
+        "purchase_date": "2023-06-21"
+    }
+]
